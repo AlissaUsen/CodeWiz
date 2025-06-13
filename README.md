@@ -1,1 +1,2 @@
 # CodeWiz
+Practicing Python.
